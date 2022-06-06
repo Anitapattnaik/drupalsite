@@ -220,6 +220,15 @@
                 0 => '8.9.20',
             ),
         ),
+        'drupal/contact_storage' => array(
+            'pretty_version' => '1.1.0',
+            'version' => '1.1.0.0',
+            'type' => 'drupal-module',
+            'install_path' => __DIR__ . '/../../modules/contrib/contact_storage',
+            'aliases' => array(),
+            'reference' => '8.x-1.1',
+            'dev_requirement' => false,
+        ),
         'drupal/content_moderation' => array(
             'dev_requirement' => false,
             'replaced' => array(
@@ -772,6 +781,15 @@
                 0 => '8.9.20',
             ),
         ),
+        'drupal/token' => array(
+            'pretty_version' => '1.10.0',
+            'version' => '1.10.0.0',
+            'type' => 'drupal-module',
+            'install_path' => __DIR__ . '/../../modules/contrib/token',
+            'aliases' => array(),
+            'reference' => '8.x-1.10',
+            'dev_requirement' => false,
+        ),
         'drupal/toolbar' => array(
             'dev_requirement' => false,
             'replaced' => array(
@@ -813,6 +831,15 @@
             'replaced' => array(
                 0 => '8.9.20',
             ),
+        ),
+        'drupal/webform' => array(
+            'pretty_version' => '6.1.0',
+            'version' => '6.1.0.0',
+            'type' => 'drupal-module',
+            'install_path' => __DIR__ . '/../../modules/contrib/webform',
+            'aliases' => array(),
+            'reference' => '6.1.0',
+            'dev_requirement' => false,
         ),
         'drupal/workflows' => array(
             'dev_requirement' => false,
